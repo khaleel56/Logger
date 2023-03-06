@@ -1,0 +1,99 @@
+{"level":"info","message":"server running"}
+{"level":"info","message":"server running"}
+{"level":"info","message":"info"}
+{"level":"error","message":"error"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"debug"}
+{"level":"verbose","message":"verbose"}
+{"level":"info","message":"server running"}
+{"level":"info","message":"info"}
+{"level":"error","message":"error"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"debug"}
+{"level":"verbose","message":"verbose"}
+{"level":"info","message":"server running"}
+{"level":"info","message":"info"}
+{"level":"error","message":"error"}
+{"level":"warn","message":"warn"}
+{"level":"debug","message":"debug"}
+{"level":"verbose","message":"verbose"}
+{"level":"silly","message":"silly"}
+info -server running
+info -info
+error -error
+warn -warn
+debug -debug
+verbose -verbose
+silly -silly
+[info] -server running
+[info] -info
+[error] -error
+[warn] -warn
+[debug] -debug
+[verbose] -verbose
+[silly] -silly
+[INFO   ] -server running
+[INFO   ] -server running
+[INFO   ] -info
+[ERROR  ] -error
+[WARN   ] -warn
+[DEBUG  ] -debug
+[VERBOSE] -verbose
+[SILLY  ] -silly
+2023-02-25T13:37:02.280Z - [INFO   ] - server running
+2023-02-25T13:37:11.775Z - [INFO   ] - info
+2023-02-25T13:37:11.776Z - [ERROR  ] - error
+2023-02-25T13:37:11.776Z - [WARN   ] - warn
+2023-02-25T13:37:11.777Z - [DEBUG  ] - debug
+2023-02-25T13:37:11.777Z - [VERBOSE] - verbose
+2023-02-25T13:37:11.777Z - [SILLY  ] - silly
+2023-02-26T05:34:01.396Z - [INFO   ] - server running
+2023-02-26T05:34:04.686Z - [INFO   ] - info
+2023-02-26T05:34:04.687Z - [ERROR  ] - error
+2023-02-26T05:34:04.687Z - [WARN   ] - warn
+2023-02-26T05:34:04.688Z - [DEBUG  ] - debug
+2023-02-26T05:34:04.688Z - [VERBOSE] - verbose
+2023-02-26T05:34:04.688Z - [SILLY  ] - silly
+2023-02-26T05:34:04.689Z - [INFO   ] - duration
+2023-02-26T05:34:52.344Z - [INFO   ] - server running
+2023-02-26T05:34:55.691Z - [INFO   ] - info
+2023-02-26T05:34:55.692Z - [ERROR  ] - error
+2023-02-26T05:34:55.692Z - [WARN   ] - warn
+2023-02-26T05:34:55.693Z - [DEBUG  ] - debug
+2023-02-26T05:34:55.693Z - [VERBOSE] - verbose
+2023-02-26T05:34:55.693Z - [SILLY  ] - silly
+2023-02-26T05:34:55.694Z - [INFO   ] - duration
+2023-02-26T05:36:02.283Z - [INFO   ] - server running
+2023-02-26T05:36:07.351Z - [INFO   ] - info
+2023-02-26T05:36:07.352Z - [ERROR  ] - error
+2023-02-26T05:36:07.352Z - [WARN   ] - warn
+2023-02-26T05:36:07.353Z - [DEBUG  ] - debug
+2023-02-26T05:36:07.353Z - [VERBOSE] - verbose
+2023-02-26T05:36:07.353Z - [SILLY  ] - silly
+2023-02-26T05:36:07.354Z - [INFO   ] - duration
+2023-02-26T05:36:36.600Z - [INFO   ] - server running
+2023-02-26T05:36:38.998Z - [INFO   ] - info
+2023-02-26T05:36:38.998Z - [ERROR  ] - error
+2023-02-26T05:36:38.999Z - [WARN   ] - warn
+2023-02-26T05:36:38.999Z - [DEBUG  ] - debug
+2023-02-26T05:36:38.999Z - [VERBOSE] - verbose
+2023-02-26T05:36:39.000Z - [SILLY  ] - silly
+2023-02-26T05:36:39.001Z - [INFO   ] - duration, -1, 8
+2023-02-26T05:37:22.318Z - [INFO   ] - server running
+2023-02-26T05:37:40.548Z - [INFO   ] - server running
+2023-02-26T05:38:12.701Z - [INFO   ] - server running
+2023-02-26T05:38:21.176Z - [INFO   ] - info
+2023-02-26T05:38:21.177Z - [ERROR  ] - error
+2023-02-26T05:38:21.177Z - [WARN   ] - warn
+2023-02-26T05:38:21.177Z - [DEBUG  ] - debug
+2023-02-26T05:38:21.178Z - [VERBOSE] - verbose
+2023-02-26T05:38:21.178Z - [SILLY  ] - silly
+2023-02-26T05:38:21.180Z - [INFO   ] - duration, -1, 8
+2023-02-26T05:38:35.538Z - [INFO   ] - server running
+2023-02-26T05:38:38.311Z - [INFO   ] - info
+2023-02-26T05:38:38.312Z - [ERROR  ] - error
+2023-02-26T05:38:38.312Z - [WARN   ] - warn
+2023-02-26T05:38:38.313Z - [DEBUG  ] - debug
+2023-02-26T05:38:38.313Z - [VERBOSE] - verbose
+2023-02-26T05:38:38.313Z - [SILLY  ] - silly
+2023-02-26T05:38:38.315Z - [INFO   ] - duration, -1, 8
